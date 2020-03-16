@@ -1,5 +1,8 @@
 _repo: Selenium-cells-The-construction-care-and-use-of-selenium-cells-with-special-reference-to-the-__61574
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61574-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, Thomas William
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51495'
     url: http://www.gutenberg.org/2009/agents/51495
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61574#Selenium-cells-The-construction-care-and-use-of-selenium-cells-with-special-reference-to-the-_
 gutenberg_issued: '2020-03-07'
 gutenberg_type: Text
 identifiers:
