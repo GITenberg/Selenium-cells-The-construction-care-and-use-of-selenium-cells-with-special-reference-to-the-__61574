@@ -1,0 +1,25 @@
+_repo: Selenium-cells-The-construction-care-and-use-of-selenium-cells-with-special-reference-to-the-__61574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Thomas William
+    birthdate: 1894
+    gutenberg_agent_id: '51495'
+    url: http://www.gutenberg.org/2009/agents/51495
+description: ''
+gutenberg_issued: '2020-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61574'
+  lccn: '20000748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Selenium cells'
+- GITenberg
+title: "Selenium cells\r\nThe construction, care and use of selenium cells with special\
+  \ reference to the Fritts cell"
+url: http://www.gutenberg.org/ebooks/61574
